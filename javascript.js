@@ -55,7 +55,7 @@ subtract.addEventListener("click", () => {
 });
   
 times.addEventListener("click", () => {
-    calculator("multiply");
+    calculator("times");
 });
   
 division.addEventListener("click", () => {
