@@ -59,5 +59,5 @@ times.addEventListener("click", () => {
 });
   
 division.addEventListener("click", () => {
-    calculator("divide");
+    calculator("division");
 });
